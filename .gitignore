@@ -24,7 +24,8 @@
 *.lai
 *.la
 *.a
-*.lib
+*.lib 
+vectorAdd/01-vector-addC
 
 # Executables
 *.exe
